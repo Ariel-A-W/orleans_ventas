@@ -6,4 +6,4 @@ Se trata de una demo que muestra la forma en cómo funciona una típica aplicaci
 
 En la siguiente captura se puede apreciar los resultados que arroja en pantalla. 
 
-![console_out.](/docs/console_out.png "Consola de Salida.")
+![Captura 1.](/documentation/console_out.png "Consola de Salida.")
